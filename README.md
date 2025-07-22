@@ -1,7 +1,7 @@
 # mdm-deck-crawler
 
 # Overview
-This is an automated scraper for collecting deck data from the [Top Decks section of Master Duel Meta](https://www.masterduelmeta.com/top-decks).<br>
+This is an automated scraper for collecting deck data from [the Top Decks section of Master Duel Meta](https://www.masterduelmeta.com/top-decks).<br>
 Due to the structure of the website, the scraper works by automatically clicking the "Saved as YDK file" button on each individual deck page to retrieve the data.
 
 # Usage
