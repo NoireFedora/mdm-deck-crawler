@@ -2,7 +2,7 @@
 
 # Overview
 This is an automated scraper for collecting deck data from [the Top Decks section of Master Duel Meta](https://www.masterduelmeta.com/top-decks).<br>
-Due to the structure of the website, the scraper works by automatically clicking the "Saved as YDK file" button on each individual deck page to retrieve the data.
+Due to the structure of the website, the scraper works by automatically clicking the 'Saved as YDK file' button on each individual deck page in the browser to retrieve the data.
 
 # Usage
 Simply run `main.py` to start the scraping process.<br>
